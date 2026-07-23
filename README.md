@@ -121,6 +121,30 @@ Self-checking UART Verification Environment using System Verilog with OOP, Mailb
 
 ---
 
+## UART_top module
+
+<p align="center">
+  <img src="UART_top.png" width="800">
+</p>
+
+---
+
+## UART_tx_FSM
+
+<p align="center">
+  <img src="UART_tx.png" width="800">
+</p>
+
+---
+
+## UART_rx_FSM
+
+<p align="center">
+  <img src="UART_rx.png" width="800">
+</p>
+
+---
+
 ## Simulation Tool
 
 - Siemens QuestaSim 2025.2
@@ -128,7 +152,11 @@ Self-checking UART Verification Environment using System Verilog with OOP, Mailb
 
 ---
 
-## Sample Simulation Output
+## Sample Console Output
+
+<p align="center">
+  <img src="UART_simulation.png" width="900">
+</p>
 
 ## Learning Outcomes
 
